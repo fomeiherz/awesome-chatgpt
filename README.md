@@ -11,7 +11,7 @@
 - [stable-diffusion](https://github.com/CompVis/stable-diffusion)
 - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
-#### ChatGPT prompts
+#### ChatGPT Prompts
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 
 #### Unofficial API Tools
