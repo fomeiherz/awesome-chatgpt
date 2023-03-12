@@ -7,7 +7,7 @@
 - [OpenAI API Docs](https://platform.openai.com/docs)
 
 #### Desktop
-- [Unoffical ChatGPT Desktop]https://github.com/lencx/ChatGPT
+- [Unoffical ChatGPT Desktop](https://github.com/lencx/ChatGPT)
 
 #### Visual ChatGPT Resources
 - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt)
