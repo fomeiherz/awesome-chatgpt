@@ -12,4 +12,7 @@
 - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 #### ChatGPT prompts
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+
+#### Unofficial API Tools
+- [Unoffical API in Python](https://github.com/acheong08/ChatGPT)
