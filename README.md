@@ -6,7 +6,7 @@
 - [Chat](https://chat.openai.com/chat)
 - [OpenAI API Docs](https://platform.openai.com/docs)
 
-#### Visual chatGPT Resources
+#### Visual ChatGPT Resources
 - [visual-chatgpt](https://github.com/microsoft/visual-chatgpt)
 - [stable-diffusion](https://github.com/CompVis/stable-diffusion)
 - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
