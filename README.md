@@ -1,4 +1,4 @@
-# awesome-chatgpt
+# Awesome ChatGPT
 ![ChatGPT](/chatgpt-header.png)
 
 #### Visual chatGPT Resources
