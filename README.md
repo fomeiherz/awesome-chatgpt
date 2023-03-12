@@ -7,9 +7,9 @@
 - [OpenAI API Docs](https://platform.openai.com/docs)
 
 #### Visual ChatGPT Resources
-- [visual-chatgpt](https://github.com/microsoft/visual-chatgpt)
-- [stable-diffusion](https://github.com/CompVis/stable-diffusion)
-- [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt)
+- [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+- [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 #### ChatGPT Prompts
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
